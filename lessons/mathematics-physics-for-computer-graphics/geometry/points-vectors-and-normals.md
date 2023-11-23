@@ -30,7 +30,7 @@ The terms **point** and **vector** are used in several scientific fields. In thi
 
 A **point** is a **position** in a three-dimensional space. A **vector**, on the other hand, usually means a **direction** (and some corresponding magnitude or size) in three-dimensional space. Vectors can be thought of as arrows pointing in various directions. Three-dimensional **points** and **vectors** are similar in that they are both represented by the tuple notation mentioned above.
 
-$$V = (x, y, x).$$
+$$V = (x, y, z).$$
 
 Again, where (x, y, z) are real numbers.
 
